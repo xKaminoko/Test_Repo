@@ -1,0 +1,33 @@
+*  {
+    box-sizing: border-box;
+}
+
+  th, td { border:2px solid rgb(64, 67, 75);
+            border-collapse: collapse;
+           
+
+        }
+        #h{padding: 10px;
+            font-size: 27px;
+        }
+        table{border:2px solid rgb(64, 67, 75);
+            border-collapse: collapse;
+            width: 100%;
+            
+        }
+        td {padding: 10px 20px;
+            background-color:;
+        }
+        .day {padding: 0 10px;}
+        .vertical-text { writing-mode: vertical-rl;
+            vertical-align:middle;
+            text-align: center;
+            text-orientation: upright;
+            
+
+        }
+        tr:nth-of-type(even){background-color:rgb(167, 199, 209);
+        }
+        tr:nth-of-type(odd){background-color:rgb(226, 233, 236);
+        }
+        #egg {text-align: center;}
